@@ -1,3 +1,3 @@
 # Telisa
 
-It's a gift!
+Telisa branch in the Telisa repo, for Telisa.
